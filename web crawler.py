@@ -41,5 +41,6 @@ def get_admin_content():
         title = link.string
         print(title)
         print(href)
+print "Hello world"
 get_admin_content()
 #trade_spider()
